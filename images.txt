@@ -5,6 +5,7 @@ kasmweb/nginx:1.25.3
 ubuntu:20.04
 fiscoorg/fiscobcos:v2.4.0
 fiscoorg/fiscobcos
+fiscoorg/fiscobcos:v3.6.0
 nginx
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
