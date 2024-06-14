@@ -1,10 +1,10 @@
 
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-ubuntu:20.04
+＃alpine
+＃python:alpine3.19
+＃kasmweb/nginx:1.25.3
+＃ubuntu:20.04
+tars-mysql
 fiscoorg/fiscobcos:v3.6.0
 fiscoorg/fiscobcos
-nginx
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
