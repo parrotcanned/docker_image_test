@@ -3,7 +3,8 @@
 ＃python:alpine3.19
 ＃kasmweb/nginx:1.25.3
 ＃ubuntu:20.04
-tars-mysql
+btchild/tars-mysql:5.6
+btchild/tars-mysql
 fiscoorg/fiscobcos:v3.6.0
 fiscoorg/fiscobcos
 --platform=linux/amd64 redis:7.0.15-alpine3.20
