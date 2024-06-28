@@ -1,11 +1,12 @@
 
 
-＃python:alpine3.19
-＃kasmweb/nginx:1.25.3
-＃ubuntu:20.04
+python:alpine3.19
+kasmweb/nginx:1.25.3
+ubuntu:20.04
+mysql:latest
+alpine
 fiscoorg/fiscobcos:v2.11.0
 fiscoorg/fiscobcos:v2.8.0
-alpine
 btchild/tars-mysql:latest
 btchild/tars-mysql:v5.7
 fiscoorg/fiscobcos:v2.8.0
