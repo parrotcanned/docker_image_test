@@ -5,8 +5,6 @@ kasmweb/nginx:1.25.3
 ubuntu:20.04
 dns:latest
 mysql:latest
-remix-ide:latest
-alpine
 fiscoorg/fiscobcos:v2.11.0
 fiscoorg/fiscobcos:v2.8.0
 btchild/tars-mysql:latest
