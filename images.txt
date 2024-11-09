@@ -6,6 +6,7 @@ ubuntu:20.04
 dns:latest
 mysql:latest
 webase/webase-operator
+webase/webase-operator:laster
 fiscoorg/fiscobcos:v2.11.0
 fiscoorg/fiscobcos:v2.8.0
 btchild/tars-mysql:latest
