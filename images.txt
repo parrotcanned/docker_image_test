@@ -1,9 +1,7 @@
 
 
 python:alpine3.19
-kasmweb/nginx:1.25.3
 ubuntu:20.04
-dns:latest
 mysql:latest
 webase/webase-operator
 webase/webase-operator:laster
@@ -12,5 +10,3 @@ fiscoorg/fiscobcos:v2.8.0
 btchild/tars-mysql:latest
 btchild/tars-mysql:v5.7
 fiscoorg/fiscobcos:v2.8.0
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
